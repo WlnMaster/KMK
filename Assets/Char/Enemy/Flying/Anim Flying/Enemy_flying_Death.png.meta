@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 69d8b5a78f75b794f9d51dd78017dc09
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemy_flying_Death_0
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 13460
+        width: 2168
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845abcc00cff9f34bbabc932c344363b
+      internalID: 204561131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_1
+      rect:
+        serializedVersion: 2
+        x: 5044
+        y: 13460
+        width: 2136
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a376cfac7172114ea7afa79ed48fa10
+      internalID: -1422923935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_3
+      rect:
+        serializedVersion: 2
+        x: 9130
+        y: 13460
+        width: 2146
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cea244d2dbea741ab217aeaccb6227
+      internalID: 1986518677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_6
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 9364
+        width: 2148
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e399e9b039f2e20419e507b4244c26f9
+      internalID: 1152082402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_9
+      rect:
+        serializedVersion: 2
+        x: 5049
+        y: 9364
+        width: 2131
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4cfc3855817e6438251fe7deb05fba
+      internalID: -317397114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_10
+      rect:
+        serializedVersion: 2
+        x: 9184
+        y: 9364
+        width: 2092
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb73e651ad70838439e3c39c99b888dd
+      internalID: -1087120784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_49
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 5268
+        width: 2023
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f184a5920c1eb43b5970dfc309f212
+      internalID: -889455835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_50
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 5268
+        width: 1912
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67ea6c8e74396a4181caabed0c6b97e
+      internalID: 1859273633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_51
+      rect:
+        serializedVersion: 2
+        x: 9288
+        y: 5268
+        width: 1988
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f337f3d048d4a245abcc546b6d114c1
+      internalID: -1082917038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_52
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1172
+        width: 1912
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891a6875e0ba6044399f19245149a056
+      internalID: -584540068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_flying_Death_53
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 1172
+        width: 1912
+        height: 1656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a1ce1bc6f95b4f8275d397117ae7e
+      internalID: 2104863050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Enemy_flying_Death_0: 204561131
+      Enemy_flying_Death_1: -1422923935
+      Enemy_flying_Death_10: -1087120784
+      Enemy_flying_Death_11: 555117461
+      Enemy_flying_Death_12: -256731869
+      Enemy_flying_Death_13: 518402854
+      Enemy_flying_Death_14: -2051083081
+      Enemy_flying_Death_15: -369658683
+      Enemy_flying_Death_16: 1563396447
+      Enemy_flying_Death_17: -987630812
+      Enemy_flying_Death_18: -186307692
+      Enemy_flying_Death_19: 221603934
+      Enemy_flying_Death_2: 449381207
+      Enemy_flying_Death_20: 1843167388
+      Enemy_flying_Death_21: -1125292891
+      Enemy_flying_Death_22: 2133412193
+      Enemy_flying_Death_23: 685062839
+      Enemy_flying_Death_24: 1350163906
+      Enemy_flying_Death_25: -1669527657
+      Enemy_flying_Death_26: 121164375
+      Enemy_flying_Death_27: -507586761
+      Enemy_flying_Death_28: -1998350448
+      Enemy_flying_Death_29: 593560031
+      Enemy_flying_Death_3: 1986518677
+      Enemy_flying_Death_30: -903933216
+      Enemy_flying_Death_31: 1893143139
+      Enemy_flying_Death_32: -1455555769
+      Enemy_flying_Death_33: -1027498842
+      Enemy_flying_Death_34: -531220698
+      Enemy_flying_Death_35: 291780368
+      Enemy_flying_Death_36: 1403159337
+      Enemy_flying_Death_37: 1493236171
+      Enemy_flying_Death_38: -934715370
+      Enemy_flying_Death_39: -792500398
+      Enemy_flying_Death_4: -1269119633
+      Enemy_flying_Death_40: 111531961
+      Enemy_flying_Death_41: -1938800916
+      Enemy_flying_Death_42: -1639075241
+      Enemy_flying_Death_43: -551017165
+      Enemy_flying_Death_44: -583940705
+      Enemy_flying_Death_45: 1949645321
+      Enemy_flying_Death_46: -748844432
+      Enemy_flying_Death_47: -1509078675
+      Enemy_flying_Death_48: -161385457
+      Enemy_flying_Death_49: -889455835
+      Enemy_flying_Death_5: 1782092117
+      Enemy_flying_Death_50: 1859273633
+      Enemy_flying_Death_51: -1082917038
+      Enemy_flying_Death_52: -584540068
+      Enemy_flying_Death_53: 2104863050
+      Enemy_flying_Death_6: 1152082402
+      Enemy_flying_Death_7: -1574878497
+      Enemy_flying_Death_8: -797002492
+      Enemy_flying_Death_9: -317397114
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
